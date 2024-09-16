@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+#marquee
+{
+    font-size: medium;
+    color: #175419;
+    font-style:bold;
+    border: #333 solid;
+    }
+#contact
+{
+    padding-bottom: 10%;
+}
+#map
+{
+    border: #333 solid;
+
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+li a:hover
+{
+   
+    padding:.5%;
+    border-radius: 2px;
+    box-shadow:2px 2px 3px  #b6f7b8
+
+}
+
+nav ul li a {
+    margin:1%;
+
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 20px;
+}
+
+section h2 {
+    color: #4CAF50;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+    
